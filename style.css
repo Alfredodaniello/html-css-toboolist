@@ -116,5 +116,26 @@ MAIN
     background-color: #09a9ed;
     border-radius: 17px;
     color: #f6f8f9;
-    width: 80px;
+}
+
+.sub-menu {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.tag-purple{
+    background-color: #ab5de6;
+}
+
+.circle-red {
+    border-color: #ff4444;
+    color: #ff4444;
+}
+
+.tag-green {
+    background-color: #2cc6ab;
+}
+
+.tag-orange {
+    background-color: #ff9b00;
 }
