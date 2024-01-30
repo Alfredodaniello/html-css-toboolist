@@ -19,6 +19,7 @@ box-sizing: border-box;
 body {
     background-color: #f6f8f9;
     font-family: 'Roboto', sans-serif;
+
 }
 
 /*-----
@@ -75,7 +76,7 @@ MAIN
     max-width: 800px;
     margin: auto;
     background-color: #ffffff;
-    height: 530px;
+    height: 780px;
     padding-left: 50px;
     padding-top: 40px;
 }
@@ -113,11 +114,13 @@ MAIN
 .tag {
     display: inline-block;
     padding: 10px;
-    background-color: #09a9ed;
     border-radius: 17px;
     color: #f6f8f9;
 }
 
+.tag-blue{
+    background-color: #14aaf5;
+}
 .sub-menu {
     margin-top: 15px;
     margin-bottom: 20px;
@@ -138,4 +141,16 @@ MAIN
 
 .tag-orange {
     background-color: #ff9b00;
+}
+.tag-pink {
+    background-color: #ec4a9d;
+}
+
+.tag-lightgreen {
+    background-color: #a3d116;
+}
+
+.final {
+    background-color: #f6f8f9;
+    height: 25px;
 }
