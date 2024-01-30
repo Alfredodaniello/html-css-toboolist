@@ -76,4 +76,45 @@ MAIN
     margin: auto;
     background-color: #ffffff;
     height: 530px;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.main-titles {
+    display: inline-block;
+}
+
+.circle {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 100%;
+    line-height: 25px;
+    text-align: center;
+}
+
+.task-news{
+    margin-top:15px;
+    margin-bottom: 40px;
+}
+
+.circle-green {
+    color: #42ccb4;
+    border-color: #42ccb4;
+}
+
+.subtitles {
+    display: inline-block;
+    font-size: 25px;
+    padding-left: 8px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 10px;
+    background-color: #09a9ed;
+    border-radius: 17px;
+    color: #f6f8f9;
+    width: 80px;
 }
